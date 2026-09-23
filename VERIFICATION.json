@@ -1,0 +1,19 @@
+{
+  "artifact": "dist/index.html",
+  "sha256": "da571c8aaf55fbf80589284b097818fc3f7513dbb01c2741dfcf2bfc56c5647c",
+  "size_bytes": 1987428,
+  "verified_viewports": [
+    "320x700",
+    "390x844",
+    "768x1024",
+    "1440x900"
+  ],
+  "countdown_target": "2026-10-08T20:00:00+03:00",
+  "maps_url": "https://maps.app.goo.gl/FK2sCrA2D5gTKwkY6?g_st=iw",
+  "tests": [
+    "tests/test_final_invitation.py",
+    "tests/test_hero_palette_design.py",
+    "qa_final.py",
+    "qa_responsive.py"
+  ]
+}
