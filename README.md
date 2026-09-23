@@ -38,3 +38,5 @@ Verified viewports: `320×700`, `390×844`, `768×1024`, `1440×900`.
 The production artifact is a self-contained `dist/index.html` with images and audio embedded as data URIs. The repository keeps a lightweight source template with explicit asset placeholders because the connected GitHub write interface does not support directly syncing the ~2 MB generated single-file artifact from the runtime.
 
 See `VERIFICATION.json` for the verified artifact checksum and deployment metadata.
+
+Deployment trigger: 2026-09-23 23:35 EEST.
